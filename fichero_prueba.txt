@@ -1,0 +1,9 @@
+Este es el fichero de prueba para inicializar el repo.
+
+Mis datos:
+Nombre: Marco Antonio
+Nacimiento: 25 Octubre 1996
+Edad: 24 años
+Sexo: H
+
+Continuará....
